@@ -22,12 +22,7 @@ title: Publications
 ## Degree Thesis
 
 
+
   <br>
 
 ---
-
-## Early Project
-
-
-
-  <br>
