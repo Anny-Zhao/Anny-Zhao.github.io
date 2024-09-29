@@ -46,7 +46,7 @@ links:
     url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: NZ
 future: true
 highlighter: rouge
 # markdown: kramdown
