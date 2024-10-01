@@ -10,7 +10,7 @@ title: Teams
 ---
 ## GGBond
 
-<img src="https://Anny-Zhao.github.io/images/teams/GGbond.jpg" class="floatpic" width="360" height="480">
+<img src="https://Anny-Zhao.github.io/images/teams/GGbond.jpg" class="floatpic" width="300" height="400">
 <br>
 
 ****
