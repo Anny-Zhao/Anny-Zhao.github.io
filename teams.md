@@ -18,4 +18,4 @@ title: Teams
 - 2021-2023  Master of 激光变脸, University of 光头强
 - 2018-2020  Bachelor of 超级棒棒糖, University of 玛卡巴卡
 
-**Research Topic: GGBond如何住进米奇妙妙屋**
+**Research Topic:   GGBond如何住进米奇妙妙屋**
