@@ -11,8 +11,6 @@ title: Teams
 ## GGBond
 
 <img src="https://Anny-Zhao.github.io/images/teams/GGbond.jpg" class="floatpic" width="300" height="400">
-<br>
-
 ****
 **Education:**
 - 2024-?       Phd of 激光变身, University of 超人强
