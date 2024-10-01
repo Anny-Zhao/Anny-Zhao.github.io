@@ -10,8 +10,7 @@ title: Teams
 ---
 ## GGBond
 
-<img src="https://Anny-Zhao.github.io/images/teams/GGbond.jpg" class="floatpic" width="300" height="400">
-****
+<img src="https://Anny-Zhao.github.io/images/teams/GGbond.jpg" width="300" height="400">
 **Education:**
 - 2024-?       Phd of 激光变身, University of 超人强
 - 2021-2023    Master of 激光变脸, University of 光头强
