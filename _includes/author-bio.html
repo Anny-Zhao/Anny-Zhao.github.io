@@ -1,4 +1,4 @@
-<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="150"></a>
+<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></a>
 
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
@@ -12,5 +12,4 @@
 
 {% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><img src="https://caihanlin.com/images/logo/icons8-rg.png" width="14" height="14"></i> ResearchGate</a></p>{% endif %}
 
-
-<!-- Lastly modified by Hanlin CAI in 2023/10/15 -->
+{% if site.owner.schoolwebsite %}
