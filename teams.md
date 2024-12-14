@@ -18,6 +18,8 @@ title: Teams
 
 **Research Topic:   GGBond如何住进米奇妙妙屋**
 
+<br>
+
 # PhD Students
 ---
 ## Binxu Li
@@ -42,8 +44,9 @@ title: Teams
 # Master Student
 ---
 
-
+<br>
 
 # Vistors
 
 
+<br>
