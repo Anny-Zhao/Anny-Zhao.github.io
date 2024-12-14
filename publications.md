@@ -5,20 +5,6 @@ title: Publications
 ---
 
 
-## Conference Paper
-
-
-
----
-
-## Ongoing Project
-
-
-<br>
-
----
-
-## Degree Thesis
 
 
 
