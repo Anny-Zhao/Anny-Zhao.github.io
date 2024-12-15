@@ -4,6 +4,8 @@
 
 <p>{{ site.owner.bio }}</p>
 
+{% if site.owner.CV %}<p style="text-indent:0;margin-top:1.5em;"><a href="{{ site.owner.CV}}"><img src="https://anny-zhao.github.io/images/logo/icons8-cv-100.png" width="14" height="14"></i> My CV</a></p>{% endif %}
+
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
 {% if site.owner.linkedin %}<p style="text-indent:0;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
