@@ -10,7 +10,6 @@ owner:
   name: Ke JIANG
   email: ke.jiang@canterbury.ac.nz
   linkedin: ke-jiang-613646ba
-  researchgate: https://www.researchgate.net/profile/Ke-Jiang-11
   scholar: https://scholar.google.com/citations?user=2YQxaJgAAAAJ&hl=en&oi=sra
   swebsite: https://profiles.canterbury.ac.nz/Ke-Jiang
 
@@ -18,6 +17,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: Research
     url: /
   - title: Teams
