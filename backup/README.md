@@ -6,4 +6,3 @@ However, backing up is a good habit to get into, and I highly recommend you make
 
 Thank you for supporting my work! Please feel free to contact me if you need help.
 
-- My email: lancecai2002@gmail.com
