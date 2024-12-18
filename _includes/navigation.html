@@ -5,11 +5,21 @@
   {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
 	<div class="top-navigation">
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
+			<ul>
+				{% for link in site.links %}
+				  <li>
+					<a href="{{ link.url }}">{{ link.title }}</a>
+					{% if link.children %}
+					  <ul>
+						{% for child in link.children %}
+						  <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+						{% endfor %}
+					  </ul>
+					{% endif %}
+				  </li>
+				{% endfor %}
+			  </ul>
+			  
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
