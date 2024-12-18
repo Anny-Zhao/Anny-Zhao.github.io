@@ -22,19 +22,18 @@ links:
     url: /research/
     children:
       - title: Research–High-performance structures
-        url: /research/
+        url: /research1/
       - title: Research–Anti-seismic devices
-        url: /research/
+        url: /research2/
       - title: Research–Structural fire
-        url: /research/
+        url: /research3/
       - title: Research–AI in structures
-        url: /research/
+        url: /research4/
   - title: Teams
     url: /teams/
   - title: Publications
     url: /publications/
-  - title: Publications1
-    url: /publications1/
+
 
 
 
