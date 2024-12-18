@@ -20,19 +20,21 @@ links:
     url: /
   - title: Research
     url: /research/
-        children:
+    children:
       - title: Research–High-performance structures
-        url: /research/topic1/
+        url: /research/
       - title: Research–Anti-seismic devices
-        url: /research/topic2/
+        url: /research/
       - title: Research–Structural fire
-        url: /research/topic3/
+        url: /research/
       - title: Research–AI in structures
-        url: /research/topic4/
+        url: /research/
   - title: Teams
     url: /teams/
   - title: Publications
     url: /publications/
+
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
